@@ -22,7 +22,7 @@ Welcome to **WallyDeco**, your one-stop destination for discovering and showcasi
 ## How to Use
 
 1. **Browse Wallpapers**: Explore the various categories or use the search bar to find specific wallpapers.
-2. **Save **: Click on the heart icon to save wallpapers to your favorites.
+2. **Save**: Click on the heart icon to save wallpapers to your favorites.
 
 ## About Us
 
