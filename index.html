@@ -754,11 +754,7 @@
       Array.from(job.textContent).forEach((char, index) => {
         setTimeout(() => {
           const charSpan = job.querySelector(`span:nth-child(${index + 1})`);
-<<<<<<< HEAD
           // charSpan.classList.toggle('visible');
-=======
-          charSpan.classList.toggle('visible');
->>>>>>> d7abde5829451f183521805f11fde53c8b5f3e45
         }, index * typeSpeed * 0.1); // Adjust timing here
       });
 
